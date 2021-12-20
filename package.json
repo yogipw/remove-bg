@@ -1,0 +1,17 @@
+{
+  "name": "remove-bg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YogiPw ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "clui": "^0.3.6",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.0.0",
+    "prompt": "^1.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
